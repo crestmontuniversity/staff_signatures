@@ -1,8 +1,10 @@
-# Crestmont University staff signature assets
+# Crestmont University staff signatures
 
-Images used by the staff email signatures. Served via GitHub Pages at
-https://crestmontuniversity.github.io/staff_signatures/
+Live page: https://crestmontuniversity.github.io/staff_signatures/
 
+Staff open the page, find their name, click **Copy signature** and paste it into Outlook.
+
+- `index.html`  the self-service page (generated, do not edit by hand)
 - `brand/`      banner and university seal
 - `icons/`      phone, email, web and social icons
 - `headshots/`  circle-cropped staff photos (named by email local part)
